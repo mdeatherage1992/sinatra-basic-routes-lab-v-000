@@ -8,6 +8,6 @@ get '/hometown' do
   "My hometown is __"
 end
 get '/favorite-food' do
-  "Hello, World!"
+  "My favorite song is __"
 end
 end
